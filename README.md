@@ -1,13 +1,8 @@
-
-
 # Encriptador
 
 Desarrollo que permite la encriptacion y descriptacion de textos ingresados, lo anterior por medio de un aplicacion web. 
 
-
 Para que se lleve a cabo la encriptación es necesario realizar una serie de validaciones y reglas que sustituyen las vocales por una clave, gracias a ello es posible encriptar el texto colocado, el texto que se encripta es posible copiarlo por medio de un botón y colocarlo nuevamente para su desencriptación. 
-
-
 
 ## Reglas de funcionamiento
 
@@ -25,8 +20,6 @@ e. El resultado debe ser mostrado en la pantalla.
 
 f. Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del ctrl+C o de la opción “copiar” del menú de las aplicaciones.
 
-
-
 #### Valores de encriptacion
 
 ##### Equivalencias 
@@ -42,10 +35,10 @@ f. Un botón que copie el texto encriptado/desencriptado para la sección de tra
 
 Recordemos que los valores funcionan en ambas direcciones a la hora de encriptar y desencriptar.
 
-
-
 ##### Autor
 Alejandro Ramos Morquecho (https://github.com/Alejandromorque)
+
+###### Portada (https://github.com/Alejandromorque/Encriptador-de-texto/blob/main/img/portada.png)
 
 
 
